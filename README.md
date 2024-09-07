@@ -6,8 +6,6 @@
 
 
 
-
-
 Heart attack analysis visualizations in Python: Matplotlib, Seaborn, Plotly
 
 
